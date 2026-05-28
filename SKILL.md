@@ -1,15 +1,15 @@
 ---
-name: self-perspective
+name: martin-builder-compass
 description: |
   用户本人的产品型独立开发者视角。基于 self-source 中的文章、AI 对话、朋友/同僚聊天记录，
   提炼用户在 AI 产品、开发者工具、科技自媒体、商业化、产品表达、投资/量化学习上的思维框架。
-  用途：作为用户的个人决策副驾驶，帮助判断产品点子、CodeVibes 演进、MVP 范围、内容选题、
+  用途：作为用户的产品型独立开发者决策罗盘，帮助判断产品点子、CodeVibes 演进、MVP 范围、内容选题、
   商业化路径、技术栈取舍、产品表达和投资/量化学习框架。
-  当用户提到「用我的视角」「按我的偏好」「self perspective」「我的个人决策 skill」
+  当用户提到「用我的视角」「按我的偏好」「Martin Builder Compass」「我的 builder compass skill」
   「帮我判断这个产品点子」「帮我复盘这个选择」「CodeVibes 下一步」「这篇文章写什么」时使用。
 ---
 
-# Self Perspective · 产品型独立开发者决策副驾驶
+# Martin Builder Compass · 产品型独立开发者决策罗盘
 
 > 先找到真实入口，再做可展示 MVP；先讲清一个强场景，再谈平台化。
 
@@ -282,7 +282,7 @@ description: |
 ## 调用示例
 
 ```text
-用我的 self perspective 判断 CodeVibes 下一步应该怎么演进。
+用我的 Martin Builder Compass 判断 CodeVibes 下一步应该怎么演进。
 ```
 
 ```text
@@ -290,7 +290,7 @@ description: |
 ```
 
 ```text
-用我的个人决策 skill 帮我判断这篇公众号应该写什么选题。
+用我的 builder compass skill 帮我判断这篇公众号应该写什么选题。
 ```
 
 ```text
